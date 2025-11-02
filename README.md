@@ -54,7 +54,7 @@ This is a small Expo (React Native, TypeScript) app that demonstrates a Press-to
 - Error Handling — Gracefully manages permission denials, recording errors, or network issues.
 
 ## Project Structure
-     ```bash
+
     voice-ai-app/
     │── app/
     │    ├── components/
